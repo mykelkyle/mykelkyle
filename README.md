@@ -1,6 +1,6 @@
 ## Hi there, I'm Mykel! 👋
 
-I'm a fullstack developer with a strong foundation in JavaScript, TypeScript, Ruby, PostgreSQL, and React. I love building intuitive user experiences backed by clean, scalable systems. Whether I’m designing front-end components or architecting backend APIs, my main goal is to keep things simple, performant, and maintainable. My favorite part of building software is leaning into the discomfort of a tough challenge. I feel most fulfilled when I'm solving complex problems or learning a new, unfamiliar technology.
+I'm a full-stack developer with a strong foundation in JavaScript, TypeScript, Ruby, PostgreSQL, and React. I love building intuitive user experiences backed by clean, scalable systems. Whether I’m designing front-end components or architecting backend APIs, my main goal is to keep things simple, performant, and maintainable. I thrive most when I'm solving complex problems or learning a new, unfamiliar technology.
 
 ### My Toolkit 🧰 
 
